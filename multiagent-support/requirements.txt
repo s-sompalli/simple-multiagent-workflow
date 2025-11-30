@@ -1,0 +1,7 @@
+streamlit
+langgraph
+langchain
+langchain-anthropic
+typing_extensions
+langsmith
+langchain-core
